@@ -1,2 +1,3 @@
 # mapbox_earthquakes
-Leaflet and D3.js data visualization of live earthquake data from the USGS
+Used python to make API calls to USGS for weekly data update
+Visualized map data with Leaflet and D3.js
